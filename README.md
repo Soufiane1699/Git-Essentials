@@ -1,1 +1,4 @@
 # Git-Essentials
+
+| Befehl | Bedeutung |
+| ------ | --------  |
