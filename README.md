@@ -1,4 +1,5 @@
 # Git-Essentials
+![img](https://githubstoragesoufiane.blob.core.windows.net/container/Git-Logo-White.png)
 
 | Befehl                        | Bedeutung |
 | ------                        | --------                                                                              |
